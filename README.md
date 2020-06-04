@@ -1,2 +1,2 @@
 # GrandmaSocks
-C++ developer, student, just hosting small projects here (:
+c++,lua,java
