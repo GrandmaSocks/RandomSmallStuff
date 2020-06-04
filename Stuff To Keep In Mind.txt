@@ -1,0 +1,2 @@
+in the linkers additional dependencies add d3d11.lib also add in libary directories 
+Make sure the program is a x86 Win32
