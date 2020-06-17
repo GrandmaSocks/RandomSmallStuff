@@ -76,16 +76,6 @@ int main()
 
 	
 
-								/*if (flipResult == 1)
-	{
-		std::cout << "First coin is = Heads (1) \n";
-	}
-	
-	if (flipResult == 2)
-	{
-		std::cout << "First coin is = Tails (2) \n";
-	}
-	*/
 
 
 
