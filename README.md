@@ -1,2 +1,2 @@
 # GrandmaSocks
-c++,lua,java
+Random smaller stuff
