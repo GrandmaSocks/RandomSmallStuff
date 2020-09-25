@@ -20,15 +20,9 @@ int main()
 	int flipCoin = 0; // this varible hold the value of our coin flip
 	int timesHeads = 0;
 	int timesTails = 0;
-
-
+	
 	std::cout << "How many times should the coin be flipped? \n";
 	std::cin >> numberOfFlips;
-
-	
-	
-
-	
 
 	for (int i = 1; i <= numberOfFlips; i++) // for loop that flips multiple coins based on the users input
 	{
@@ -59,9 +53,7 @@ int main()
 			timesTails++;
 			std::cout << "\n";
 			std::cout << "Its Tails \n";
-		}
-
-		
+		}	
 
 	}
 
@@ -72,15 +64,6 @@ int main()
 	std::cout << "It was heads " << timesHeads << " Times"<< std::endl; // amount of times it was heads
 
 	std::cout << "It was tails " << timesTails << " Times" << std::endl; // amount of times it was tails
-
-
-	
-
-
-
-
-
-
 
 	return 0;
 }
