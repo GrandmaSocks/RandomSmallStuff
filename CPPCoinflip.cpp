@@ -25,11 +25,8 @@ int main()
 	std::cin >> numberOfFlips;
 
 	for (int i = 1; i <= numberOfFlips; i++) // for loop that flips multiple coins based on the users input
-	{
-		
-		flipCoin = flipcoins();
-
-		
+	{	
+		flipCoin = flipcoins();		
 
 		if (numberOfFlips >= 300) // If the amount of flips is higher than 300 make it really fast
 		{
