@@ -9,7 +9,6 @@ int flipcoins()
 	srand(time(0)); // set up seed so there is a psuedo random number
 	int flipcoins = rand() % 2 + 1; // varible that will create the value of the coin flip
 
-
 	return flipcoins; // returns the value of the coin flip
 }
 
