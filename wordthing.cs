@@ -24,8 +24,7 @@ namespace Program
             Console.ReadLine();
 
             Console.Clear();
-
-
+            
             Console.Write("The Random words are: ");
 
             for (int i = 0; i < 25; i++)
@@ -34,7 +33,6 @@ namespace Program
                 int index = rand.Next(wholelottawords.Length);
                 Console.Write(wholelottawords[index]);
                 Console.Write(" ");
-
             }
         }
     }
